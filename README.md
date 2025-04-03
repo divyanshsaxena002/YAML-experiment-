@@ -123,11 +123,11 @@ Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
 Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
 Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
 ```
-![img](https://github.com/vidhi-jaju/Yaml_experiment/blob/df4069a49a004662ed83fa012565c24d0af9c830/Images/yaml.png)
+![img](https://github.com/divyanshsaxena002/YAML-experiment-/blob/main/images/1.png)
 
-![img](https://github.com/vidhi-jaju/Yaml_experiment/blob/df4069a49a004662ed83fa012565c24d0af9c830/Images/yaml_1.png)
+![img](https://github.com/divyanshsaxena002/YAML-experiment-/blob/main/images/2.png)
 
-![img](https://github.com/vidhi-jaju/Yaml_experiment/blob/df4069a49a004662ed83fa012565c24d0af9c830/Images/yaml_2.png)
+
 
 ## Conclusion
 This project demonstrates how to work with YAML files in Python. You can extend it by adding features such as updating student information, sorting students by GPA, or saving modifications back to the YAML file.
