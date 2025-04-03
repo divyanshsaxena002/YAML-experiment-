@@ -123,9 +123,9 @@ Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
 Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
 Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
 ```
-![img](https://github.com/divyanshsaxena002/YAML-experiment-/blob/main/images/1.png)
+![img](https://github.com/divyanshsaxena002/YAML-experiment-/blob/5cae952b7963d710f83ff9d368213c805e87ee79/images/1.png)
 
-![img](https://github.com/divyanshsaxena002/YAML-experiment-/blob/main/images/2.png)
+
 
 
 
